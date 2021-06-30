@@ -8,5 +8,4 @@ run:
 .PHONY: clean
 clean:
 	@rm *.csv
-	@rm -rf .vscode
 	@rm -rf __pycache__
